@@ -17,3 +17,6 @@ function size(){let scale=Math.min(window.innerWidth/375,1);$('#stage').style.tr
 document.querySelectorAll('[class*="mask-"]').forEach(el=>{for(const c of el.classList){if(c==='mask-no-repeat')el.style.maskRepeat='no-repeat';else if(c==='mask-no-clip')el.style.maskClip='no-clip';else if(c==='mask-alpha')el.style.maskMode='alpha';else if(c.startsWith('mask-position-['))el.style.maskPosition=c.slice(15,-1).replaceAll('_',' ');else if(c.startsWith('mask-size-['))el.style.maskSize=c.slice(11,-1).replaceAll('_',' ');}});
 // Deterministic page previews for design review.
 const preview=new URLSearchParams(location.search).get('preview');if(['home','scene','ai','profile'].includes(preview))show(preview);
+// Figma-exported artwork retains the original compound masks within the card.
+const membershipArtwork=document.querySelector('#profile [data-node-id="57:14467"]');
+if(membershipArtwork){membershipArtwork.innerHTML='<img src="assets/membership-card.svg" alt="" style="position:absolute;left:0;top:0;width:343px;height:88px">'}
