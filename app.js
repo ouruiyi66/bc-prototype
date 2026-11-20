@@ -19,4 +19,4 @@ document.querySelectorAll('[class*="mask-"]').forEach(el=>{for(const c of el.cla
 const preview=new URLSearchParams(location.search).get('preview');if(['home','scene','ai','profile'].includes(preview))show(preview);
 // Figma-exported artwork retains the original compound masks within the card.
 const membershipArtwork=document.querySelector('#profile [data-node-id="57:14467"]');
-if(membershipArtwork){membershipArtwork.innerHTML='<img src="assets/membership-card.svg" alt="" style="position:absolute;left:0;top:0;width:343px;height:88px">'}
+if(membershipArtwork){membershipArtwork.innerHTML='<img src="assets/membership-card.png" alt="" style="position:absolute;left:0;top:0;width:343px;height:88px">'}
