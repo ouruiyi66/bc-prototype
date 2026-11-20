@@ -1,0 +1,39 @@
+<svg preserveAspectRatio="none" overflow="visible" style="display: block;" width="375" height="413" viewBox="0 0 375 413" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g id="Mask group">
+<mask id="mask0_0_523" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="375" height="413">
+<rect id="Rectangle 346242075" width="375" height="413" fill="url(#paint0_linear_0_523)"/>
+</mask>
+<g mask="url(#mask0_0_523)">
+<g id="Vector" filter="url(#filter0_if_0_523)">
+<use xlink:href="#stroke0_0_523" fill="white" fill-opacity="0.08"/>
+<mask id="stroke1_0_523" fill="white">
+<use xlink:href="#stroke0_0_523"/>
+</mask>
+<path d="M361.44 238.089C361.44 210.643 339.185 188.401 311.772 188.352C285.096 147.503 239.701 120.008 187.773 118.044L159.918 116.964C132.652 115.933 110.888 93.4949 110.888 66H86.5204C86.5204 92.9057 100.669 116.522 121.942 129.877C68.687 152.118 30.5637 203.229 26.9282 263.571C6.93317 269.904 -7.55957 288.611 -7.55957 310.656C-7.55957 337.954 14.5971 360.048 41.8631 360.048C45.5477 360.048 49.1341 359.606 52.573 358.87C80.3795 400.554 127.837 428 181.73 428C264.707 428 332.504 362.896 336.68 280.951C351.467 272.31 361.44 256.353 361.44 238.04V238.089Z" stroke-width="2" stroke="url(#paint1_linear_0_523)" mask="url(#stroke1_0_523)"/>
+</g>
+</g>
+</g>
+<defs>
+<filter id="filter0_if_0_523" x="-11.5596" y="62" width="377" height="370" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset/>
+<feGaussianBlur stdDeviation="10"/>
+<feComposite in2="hardAlpha" operator="arithmetic" k2="-1" k3="1"/>
+<feColorMatrix type="matrix" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"/>
+<feBlend mode="normal" in2="shape" result="effect1_innerShadow_0_523"/>
+<feGaussianBlur stdDeviation="2" result="effect2_foregroundBlur_0_523"/>
+</filter>
+<linearGradient id="paint0_linear_0_523" x1="187.5" y1="0" x2="187.5" y2="413" gradientUnits="userSpaceOnUse">
+<stop offset="0.148315" stop-color="#D9D9D9" stop-opacity="0"/>
+<stop offset="0.288959" stop-color="#D9D9D9"/>
+<stop offset="1" stop-color="#737373" stop-opacity="0"/>
+</linearGradient>
+<linearGradient id="paint1_linear_0_523" x1="176.94" y1="293.784" x2="176.94" y2="428" gradientUnits="userSpaceOnUse">
+<stop stop-color="white"/>
+<stop offset="1" stop-color="#F3EFFB"/>
+</linearGradient>
+<path id="stroke0_0_523" d="M361.44 238.089C361.44 210.643 339.185 188.401 311.772 188.352C285.096 147.503 239.701 120.008 187.773 118.044L159.918 116.964C132.652 115.933 110.888 93.4949 110.888 66H86.5204C86.5204 92.9057 100.669 116.522 121.942 129.877C68.687 152.118 30.5637 203.229 26.9282 263.571C6.93317 269.904 -7.55957 288.611 -7.55957 310.656C-7.55957 337.954 14.5971 360.048 41.8631 360.048C45.5477 360.048 49.1341 359.606 52.573 358.87C80.3794 400.554 127.837 428 181.73 428C264.707 428 332.504 362.896 336.68 280.951C351.467 272.31 361.44 256.353 361.44 238.04V238.089Z"/>
+</defs>
+</svg>

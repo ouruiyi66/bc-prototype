@@ -1,0 +1,12 @@
+<svg preserveAspectRatio="none" overflow="visible" style="display: block;" width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="icon_16px/&#229;&#155;&#155;&#232;&#167;&#146;&#230;&#152;&#159;">
+<path id="Star 15" d="M7.14228 2.43096C7.5306 1.78311 8.4694 1.78311 8.85772 2.43096L10.4946 5.1618C10.5791 5.30285 10.6972 5.42086 10.8382 5.5054L13.569 7.14228C14.2169 7.5306 14.2169 8.4694 13.569 8.85772L10.8382 10.4946C10.6972 10.5791 10.5791 10.6972 10.4946 10.8382L8.85772 13.569C8.4694 14.2169 7.5306 14.2169 7.14228 13.569L5.5054 10.8382C5.42086 10.6972 5.30285 10.5791 5.1618 10.4946L2.43096 8.85772C1.78311 8.4694 1.78311 7.5306 2.43096 7.14228L5.1618 5.5054C5.30285 5.42086 5.42086 5.30285 5.5054 5.1618L7.14228 2.43096Z" fill="url(#paint0_linear_0_143)" stroke-width="0.8" stroke="white"/>
+</g>
+<defs>
+<linearGradient id="paint0_linear_0_143" x1="9.5" y1="3" x2="2.5" y2="9" gradientUnits="userSpaceOnUse">
+<stop stop-color="#A6CCFE"/>
+<stop offset="0.480769" stop-color="#D2AFE2"/>
+<stop offset="0.995192" stop-color="#FCDBC5"/>
+</linearGradient>
+</defs>
+</svg>

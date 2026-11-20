@@ -1,0 +1,12 @@
+<svg preserveAspectRatio="none" overflow="visible" style="display: block;" width="28" height="28" viewBox="0 0 28 28" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="icon_28">
+<g id="Frame">
+<mask id="stroke0_0_164" maskUnits="userSpaceOnUse" x="8.26953" y="3.88672" width="12" height="17" fill="black">
+<rect fill="white" x="8.26953" y="3.88672" width="12" height="17"/>
+<path d="M10.2695 9.61715C10.2695 7.55689 11.9397 5.88672 14 5.88672C16.0602 5.88672 17.7304 7.55689 17.7304 9.61716V14.2563C17.7304 16.3165 16.0602 17.9867 14 17.9867C11.9397 17.9867 10.2695 16.3165 10.2695 14.2563V9.61715Z"/>
+</mask>
+<path id="Rectangle 34627280" d="M14 17.9867C11.9397 17.9867 10.2695 16.3165 10.2695 14.2563V9.61715C10.2695 7.55689 11.9397 5.88672 14 5.88672C16.0602 5.88672 17.7304 7.55689 17.7304 9.61716V14.2563C17.7304 16.3165 16.0602 17.9867 14 17.9867Z" stroke-width="4" stroke-linejoin="round" stroke="#111111" mask="url(#stroke0_0_164)"/>
+<path id="Vector 86" d="M23.326 14.6875C23.326 19.5476 19.3861 23.4875 14.526 23.4875H13.4738C8.61372 23.4875 4.67383 19.5476 4.67383 14.6875" stroke-width="2" stroke-linejoin="round" stroke="#111111"/>
+</g>
+</g>
+</svg>
