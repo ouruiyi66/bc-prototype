@@ -4,3 +4,5 @@ html,body{margin:0;height:100%;background:#e8e8e8;font-family:-apple-system,Blin
 /* Figma's glass effect has no direct browser equivalent; reproduce its light translucent surface and outline. */
 .screen [data-name="stroke"]{background:rgba(249,249,249,.84);border:1px solid rgba(255,255,255,.95);backdrop-filter:blur(18px);-webkit-backdrop-filter:blur(18px);box-shadow:0 16px 30px rgba(0,0,0,.05)}
 #intro:not([hidden]){animation:intro-fade-in 1s ease-out both}@keyframes intro-fade-in{from{opacity:0}to{opacity:1}}
+
+.sliding-tab-pill{position:absolute;z-index:1;border-radius:40px;background:#2f2f2f;pointer-events:none}
